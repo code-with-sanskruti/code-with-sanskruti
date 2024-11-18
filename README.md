@@ -1,3 +1,4 @@
+![logo](https://github.com/code-with-sanskruti/code-with-sanskruti/blob/main/IMG_20241118_212010.jpg)
 <h1 align="center">Hi 👋, I'm Sanskruti Giram</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
