@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-sanskruti&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-sanskruti" /> </p>
 
-- 🔭 I’m currently Studying in Information Technology. [Weddding Planner](https://code-with-sanskruti.github.io/Wedding/)
-
-- 👯 I’m looking to collaborate on [Amazon Clone](https://github.com/code-with-sanskruti/amazon.git)
+- 🔭 I’m currently Studying in Information Technology.
+- [Weddding Planner](https://code-with-sanskruti.github.io/Wedding/)
+- [Amazon Clone](https://github.com/code-with-sanskruti/amazon.git)
 
 - 📫 How to reach me **sanskrutigiram1@gmail.com**
 
